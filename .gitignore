@@ -1,0 +1,4 @@
+.DS_Store
+.pyenv
+.cache
+__pycache__
